@@ -78,7 +78,7 @@ from io import BytesIO
 # dog=Dog()
 # dog.run()
 
-# print(type(dog))
+# print(type(dog))a
 # try:
 # 	f=open('C:\\Users\\zj\\Desktop\\python\\test.py','r')
 # 	print(f.read())
@@ -94,8 +94,8 @@ from io import BytesIO
 # 	g.write("ljlkjkl\n")
 #
 #
-import pickle
-d = dict(name='Bob',age=20,score=88)
-print(d)
-print(pickle.dumps(d))
-print("hello")
+# import pickle
+# d = dict(name='Bob',age=20,score=88)
+# print(d)
+# print(pickle.dumps(d))
+# print("hello")
